@@ -1,0 +1,1 @@
+"This is introduction to new project"
